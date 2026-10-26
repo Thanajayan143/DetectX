@@ -1,4 +1,45 @@
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&section=header&reversal=true&color=0:00F5FF,25:7B2FF7,50:FF00C8,75:00FF87,100:00F5FF" />
+
+</div>
+
+
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1800&pause=300&color=00FF87&center=true&vCenter=true&width=700&lines=%5BSYSTEM+ONLINE%5D;ROBOTIC+INSPECTION+%3A+INITIALIZING;SENSOR+FUSION+%3A+ANALYSIS+MODE;RAILWAY+MONITORING+%3A+ACTIVE;DETECTX+2.0+%3A+FUTURE+IN+PROGRESS" />
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:FF00C8,100:7B2FF7" />
+
+</div>
+
+
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=ENGINEERED%20FOR%20SAFER%20RAILWAYS&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn&color=0:00F5FF,30:7B2FF7,65:FF00C8,100:00FF87" />
+
+</div>
+
+
+
+<div align="center">
+
+<h2>⚡ DETECTX 2.0 | LIVE SIMULATION</h2>
+
+<img src="docs/images/detectx-simulation.gif" width="90%" alt="DETECTX 2.0 robot simulation" />
+
+<p><i>Robotics • Intelligent Monitoring • Railway Safety</i></p>
+
+</div>
+
+
+
+
 <!--
   DETECTX 2.0 | GitHub README
   Replace YOUR_GITHUB_USERNAME and YOUR_REPOSITORY_NAME
@@ -416,5 +457,65 @@ Any future real-world implementation must comply with applicable railway regulat
 <img src="https://img.shields.io/badge/DETECTX-2.0-00D9FF?style=for-the-badge" alt="DETECTX 2.0"/>
 
 **Thank you for exploring DETECTX 2.0! ⭐**
+
+</div>
+
+
+
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DETECTX%202.0&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:00F5FF,35:7B2FF7,70:FF00C8,100:00FF87" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=2200&pause=500&color=00F5FF&center=true&vCenter=true&width=750&lines=RAILWAY+SECURITY+COMMAND+CENTER;AI+%2B+ROBOTICS+%2B+INTELLIGENT+SENSING;NEXT-GEN+RAILWAY+SAFETY;DETECTX+2.0+%7C+INNOVATION+IN+MOTION" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI-INTELLIGENCE-00F5FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ROBOTICS-AUTONOMOUS-7B2FF7?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/RAILWAY-SECURITY-FF00C8?style=for-the-badge" />
+
+</div>
+
+
+
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&section=header&reversal=true&color=0:00F5FF,25:7B2FF7,50:FF00C8,75:00FF87,100:00F5FF" />
+
+</div>
+
+
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1800&pause=300&color=00FF87&center=true&vCenter=true&width=700&lines=%5BSYSTEM+ONLINE%5D;ROBOTIC+INSPECTION+%3A+INITIALIZING;SENSOR+FUSION+%3A+ANALYSIS+MODE;RAILWAY+MONITORING+%3A+ACTIVE;DETECTX+2.0+%3A+FUTURE+IN+PROGRESS" />
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:FF00C8,100:7B2FF7" />
+
+</div>
+
+
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=ENGINEERED%20FOR%20SAFER%20RAILWAYS&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn&color=0:00F5FF,30:7B2FF7,65:FF00C8,100:00FF87" />
+
+</div>
+
+
+
+<div align="center">
+
+<h2>⚡ DETECTX 2.0 | LIVE SIMULATION</h2>
+
+<img src="docs/images/detectx-simulation.gif" width="90%" alt="DETECTX 2.0 robot simulation" />
+
+<p><i>Robotics • Intelligent Monitoring • Railway Safety</i></p>
 
 </div>
