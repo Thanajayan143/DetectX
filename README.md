@@ -352,7 +352,7 @@ git clone https://github.com/Thanajayan143/DetectX
 ### 2. Navigate to the project
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd DetectX
 ```
 
 ### 3. Install dependencies
@@ -408,6 +408,7 @@ Progress should be marked complete only after the corresponding work has been im
 **Project Website:** [DETECTX 2.0](https://preview-react-9bk1ae-dky4jd9a8qjsnkqogmdzak.onspace.build/?_q=Dky4jD9a8qjsNKqoGmDZaK)  
 **Developer / Team:** Team SaiNex  
 **Institution:** Sairam Institution 
+
 **Repository:** https://github.com/Thanajayan143/DetectX
 
 ---
