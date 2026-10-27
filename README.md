@@ -346,7 +346,7 @@ To work with this project, you may need:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/Thanajayan143/DetectX
 ```
 
 ### 2. Navigate to the project
@@ -406,9 +406,9 @@ Progress should be marked complete only after the corresponding work has been im
 **Category:** Railway Safety & Intelligent Monitoring  
 **Focus Areas:** Robotics, AI, Sensor Integration, IoT, and Monitoring Software  
 **Project Website:** [DETECTX 2.0](https://preview-react-9bk1ae-dky4jd9a8qjsnkqogmdzak.onspace.build/?_q=Dky4jD9a8qjsNKqoGmDZaK)  
-**Developer / Team:** Add your name and team members here  
-**Institution:** Add your institution here  
-**Repository:** Add your GitHub repository URL here  
+**Developer / Team:** Team SaiNex  
+**Institution:** Sairam Institution 
+**Repository:** https://github.com/Thanajayan143/DetectX
 
 ---
 
